@@ -74,4 +74,7 @@ public class AddProductsToCart_Test extends base_library {
 	public void Clickonpayandconfirm() {
 		ob.clickonpayandconfirm();
 	}
+	public void clickonthenewpage() {
+		
+	}
 }
