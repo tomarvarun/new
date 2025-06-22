@@ -77,4 +77,8 @@ public class AddProductsToCart_Test extends base_library {
 	public void clickonthenewpage() {
 		
 	}
+	
+	public void newupdate() {
+		
+	}
 }
