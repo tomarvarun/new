@@ -85,4 +85,7 @@ public class AddProductsToCart_Test extends base_library {
 	public void addnewupdated() {
 		
 	}
+	public void pushnewhead() {
+		
+	}
 }
